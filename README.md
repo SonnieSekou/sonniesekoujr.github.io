@@ -20,7 +20,7 @@ Hi, I’m **Sonnie Sekou**, a Fiverr Pro designer with a passion for clean aesth
 
 ## Get in Touch
 
-- **Email:** [YourEmail@example.com]
+- **Email:** [ sonniesekoujr@gmail.com]
 - **Fiverr Profile:** [https://www.fiverr.com/sonnie_sekou01](https://www.fiverr.com/sonnie_sekou01)
 
 ---
