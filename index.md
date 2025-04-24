@@ -1,4 +1,31 @@
----
+---<style><link rel="icon" type="image/png" href="assets/favicon.png">
+
+  h1, h2, h3 {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #ffffff;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 20px;
+  }
+
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 layout: home
 title: Welcome to Sekou Digitalz Tech
 ---
@@ -6,8 +33,16 @@ title: Welcome to Sekou Digitalz Tech
 # Sekou Digitalz Tech  
 **Minimalist & Modern Logo Design Studio**
 
-Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, professional branding for tech startups and digital businesses.
-## Logo Portfolio
+ About Me
+
+Hi, I'm Sekou, the creative behind **Sekou Digitalz Tech**—a minimalist and modern logo design studio focused on helping tech startups and digital-first brands stand out with clean, impactful visuals.
+
+I specialize in crafting sleek, memorable logos that are simple yet powerful, tailored to each brand's personality and vision.
+
+With a strong eye for detail, fast communication, and a passion for branding, I work closely with clients to bring their ideas to life—whether you're launching your first startup or rebranding for growth.
+
+Let’s create something meaningful together.
+
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto;">
@@ -29,6 +64,41 @@ Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, prof
     <img src="assets/logo3.png" alt="Logo 3" style="width: 100%; height: auto; border-radius: 8px;">
     <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: NovaGrid</p>
   </div>
+## Logo Portfolio
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto;">
+
+  <!-- Logo 1 -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="assets/logo1.png" alt="Logo 1" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: TechNova</p>
+  </div>
+
+  <!-- Logo 2 -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="assets/logo2.png" alt="Logo 2" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: ByteWare</p>
+  </div>
+
+  <!-- Logo 3 -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="assets/logo3.png" alt="Logo 3" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: NovaGrid</p>
+  </div>
+
+</div>
+
+<!-- Call to Action Section -->
+<section style="text-align: center; padding: 60px 20px; background: #e8f5ff; margin-top: 60px;">
+  <h2 style="font-size: 2rem; margin-bottom: 20px;">Let's Build Your Brand</h2>
+  <p style="font-size: 1rem; margin-bottom: 30px;">
+    Ready to take your startup to the next level with a minimalist, modern logo?
+    Let’s bring your vision to life.
+  </p>
+  <a href="mailto:your@email.com" style="background: #007BFF; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    Get in Touch
+  </a>
+</section>
 
 </div>
 
