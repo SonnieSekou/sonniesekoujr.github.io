@@ -7,13 +7,20 @@ title: Welcome to Sekou Digitalz Tech
 **Minimalist & Modern Logo Design Studio**
 
 Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, professional branding for tech startups and digital businesses.
-## 🎨 Logo Portfolio
+## Logo Portfolio
 
-Here are some of my recent logo designs:
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto;">
 
-![Logo 1](assets/logos/sonnie-logo-2.jpg)
-![Logo 2](assets/logos/sonnie-logo.jpg)
-![Logo 3](assets/logos/sonnie-logo.png)
+  <!-- Portfolio Item -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="images/logo1.png" alt="Logo 1" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: TechNova</p>
+  </div>
+
+  <!-- Copy and paste for more logos -->
+
+</div>
+
 
 ---
 
@@ -22,11 +29,8 @@ Here are some of my recent logo designs:
 - ✔️ Tech-focused visual branding  
 - ✔️ Brand identity consultation  
 - ✔️ Scalable formats (PNG, JPG, SVG)
-## 🎨 Logo Portfolio
 
-Take a look at some of my recent logo work:
 
-<div align="center">
 
 <table>
   <tr>
@@ -41,17 +45,7 @@ Take a look at some of my recent logo work:
 
 </div>
 
----
 
-## 🎨 Logo Portfolio
-
-Take a look at some of my recent works:
-
-![Logo 1](assets/logos/Sonnie%20Logo%20Design%20(2).jpg)
-![Logo 2](assets/logos/Sonnie%20Logo%20Design.png)
-![Logo 3](assets/logos/Sonnie%20Logo%20Design.jpg)
-
-> *More designs coming soon!*
 
 ---
 
