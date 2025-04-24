@@ -7,6 +7,13 @@ title: Welcome to Sekou Digitalz Tech
 **Minimalist & Modern Logo Design Studio**
 
 Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, professional branding for tech startups and digital businesses.
+## 🎨 Logo Portfolio
+
+Here are some of my recent logo designs:
+
+![Logo 1](assets/logos/sonnie-logo-2.jpg)
+![Logo 2](assets/logos/sonnie-logo.jpg)
+![Logo 3](assets/logos/sonnie-logo.png)
 
 ---
 
