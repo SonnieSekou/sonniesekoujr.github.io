@@ -13,7 +13,7 @@ Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, prof
 
   <!-- Portfolio Item -->
   <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
-    <img src="images/logo1.png" alt="Logo 1" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="assets/logo1.png" alt="Logo 1" style="width: 100%; height: auto; border-radius: 8px;">
     <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: TechNova</p>
   </div>
 
