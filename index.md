@@ -22,6 +22,24 @@ Here are some of my recent logo designs:
 - ✔️ Tech-focused visual branding  
 - ✔️ Brand identity consultation  
 - ✔️ Scalable formats (PNG, JPG, SVG)
+## 🎨 Logo Portfolio
+
+Take a look at some of my recent logo work:
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="assets/logos/sonnie-logo.jpg" alt="Logo 1" width="200"/></td>
+    <td><img src="assets/logos/sonnie-logo-2.jpg" alt="Logo 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/logos/sonnie-logo.png" alt="Logo 3" width="200"/></td>
+    <td><img src="assets/logos/sonnie-logo-2.png" alt="Logo 4" width="200"/></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
