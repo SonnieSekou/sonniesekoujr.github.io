@@ -1,30 +1,5 @@
----<style><link rel="icon" type="image/png" href="assets/favicon.png">
 
-  h1, h2, h3 {
-    font-family: 'Segoe UI', sans-serif;
-    font-weight: 600;
-    color: #1a1a1a;
-  }
 
-  body {
-    font-family: 'Segoe UI', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #ffffff;
-    margin: 0 auto;
-    max-width: 900px;
-    padding: 20px;
-  }
-
-  a {
-    color: #007BFF;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
 
 layout: home
 title: Welcome to Sekou Digitalz Tech
