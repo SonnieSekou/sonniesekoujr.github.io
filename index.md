@@ -57,7 +57,7 @@ Take a look at some of my recent works:
 
 ## 📞 Contact Me
 
-📬 **Email:** sekoudigitalztech@gmail.com  
+📬 **Email:sonniesekoujr@gmail.com  
 💼 **Fiverr Pro Profile:** [https://www.fiverr.com/sonnie_sekou01](https://www.fiverr.com/sonnie_sekou01)
 
 ---
