@@ -1,0 +1,11 @@
+title: Sekou Digitalz Tech
+description: Minimalist & Modern Logo Designs by Sonnie Sekou
+baseurl: ""
+url: "https://sonniesekou.github.io"
+theme: minima
+author: Sonnie Sekou
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
