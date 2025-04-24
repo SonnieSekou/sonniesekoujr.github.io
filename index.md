@@ -9,15 +9,26 @@ title: Welcome to Sekou Digitalz Tech
 Welcome! I’m **Sonnie Sekou**, a Fiverr Pro logo designer crafting sleek, professional branding for tech startups and digital businesses.
 ## Logo Portfolio
 
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto;">
 
-  <!-- Portfolio Item -->
+  <!-- Logo 1 -->
   <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
     <img src="assets/logo1.png" alt="Logo 1" style="width: 100%; height: auto; border-radius: 8px;">
     <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: TechNova</p>
   </div>
 
-  <!-- Copy and paste for more logos -->
+  <!-- Logo 2 -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="assets/logo2.png" alt="Logo 2" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: ByteWare</p>
+  </div>
+
+  <!-- Logo 3 -->
+  <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+    <img src="assets/logo3.png" alt="Logo 3" style="width: 100%; height: auto; border-radius: 8px;">
+    <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">Client: NovaGrid</p>
+  </div>
 
 </div>
 
